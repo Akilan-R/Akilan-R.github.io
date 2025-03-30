@@ -7,6 +7,7 @@ importance: 3
 category: work
 related_publications: true
 ---
+
 Investigating the effects of life-history parameters on the dynamics of
 Drosophila metapopulations using an Individual-Based simulation and validating it with
 empirical data

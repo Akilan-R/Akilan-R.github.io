@@ -7,6 +7,7 @@ importance: 1
 category: work
 related_publications: true
 ---
+
 Investigating the role of social feedback in promoting long-term collective action under the risk of catastrophic
 climate change
 Supervisor Dr. Wolfram Barfuss, University of Bonn, Germany

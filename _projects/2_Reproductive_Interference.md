@@ -8,7 +8,7 @@ category: work
 related_publications: true
 ---
 
-We developed a mathematical model to understand the ecological 
+We developed a mathematical model to understand the ecological impacts.
 Here, we found that the evolution of male discrimination could negatively impact
 population viability. Link to the poster presented at ISEB5
 

@@ -4,7 +4,7 @@ title: Role of Social Information Under the Risk of Ecological Collapse.
 description: with background image
 img: assets/img/12.jpg
 importance: 1
-category: work
+category: Current
 related_publications: true
 ---
 

@@ -1,16 +1,19 @@
 ---
 layout: page
-title: Drosophila Metapopulation Dynamics
-description: with background image
-img: assets/img/12.jpg
+title: Katydid Signalling
+description: another without an image
+img:
 importance: 3
 category: Previous
-related_publications: true
 ---
+Winter Internship (Computational Biology), with Prof. Rohini Balakrishnan, CES, Indian Institute of
+Science
+Objective: Analyzed katydid signaling behavior across lunar phases and its impact on predation risk using statistical
+methods in R.
+Key Learnings: Data organization, R programming, data visualization, and data analysis, hypothesis testing.
 
-Semester Project (Computational Biology), with Prof. Sutirth Dey, IISER Pune,
-Objective: Exploring the effects of life-history traits on Drosophila metapopulation dynamics using individualbased simulations, validated against empirical data
-Key learnings: Metapopulation theory, agent-based modeling, and statistical validation techniques.
+
+
     ---
     layout: page
     title: project
@@ -41,8 +44,8 @@ Key learnings: Metapopulation theory, agent-based modeling, and statistical vali
     This image can also have a caption. It's like magic.
 </div>
 
-You can also put regular text between your rows of images, even citations {% cite einstein1950meaning %}.
-Say you wanted to write a bit about your project before you posted the rest of the images.
+You can also put regular text between your rows of images.
+Say you wanted to write a little bit about your project before you posted the rest of the images.
 You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
 
 <div class="row justify-content-sm-center">

@@ -4,7 +4,7 @@ title: Eco-Evolutionary Dynamics of Populations experiencing Reproductive Interf
 description: with background image
 img: assets/img/12.jpg
 importance: 1
-category: work
+category: Current
 related_publications: true
 ---
 

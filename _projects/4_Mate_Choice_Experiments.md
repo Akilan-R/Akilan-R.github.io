@@ -4,14 +4,15 @@ title: Impacts of gut-associated microbes on mating behaviour in Drosophila
 description: with background image
 img: assets/img/12.jpg
 importance: 1
-category: work
+category: Previous
 related_publications: true
 ---
 
+Semester Project (Experimental Biology), with Prof. Sutirth Dey, IISER Pune
 Project investigating host-microbiome interactions in Drosophila.
 Specifically, exploring the impacts of gut-associated microbes on mating behaviour in
 Drosophila.
-
+Key Learnings: Experimental Design, Behavioural assays
     ---
     layout: page
     title: project

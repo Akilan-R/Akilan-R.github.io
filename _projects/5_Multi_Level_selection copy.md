@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Multi-level selection
-description: another without an image
+title: Evolution of Selfishness under Multi-level Selection
+description: Summer internship with Dr. Milind Watve — a deterministic simulation model of the evolution of "selfishness" under multi-level selection.
 img:
 importance: 3
 category: Previous

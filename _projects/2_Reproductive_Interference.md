@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Eco-Evolutionary Dynamics of Populations experiencing Reproductive Interference
-description: with background image
+description: Summer internship with Prof. Hanna Kokko (JGU Mainz) — a mathematical model of the ecological and evolutionary consequences of interspecific mating.
 img: assets/img/12.jpg
 importance: 1
 category: Current

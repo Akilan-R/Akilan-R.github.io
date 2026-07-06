@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Katydid Signalling
-description: another without an image
+description: Winter internship with Prof. Rohini Balakrishnan (CES, IISc) — statistical analysis in R of katydid signalling across lunar phases and its impact on predation risk.
 img:
 importance: 3
 category: Previous

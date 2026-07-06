@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Role of Social Information Under the Risk of Ecological Collapse.
-description: with background image
+title: Role of Information in Shaping Cooperation under Risk of Ecological Collapse
+description: Master's thesis with Dr. Wolfram Barfuss (University of Bonn) — a multi-agent reinforcement learning model of how ecological feedback and social information shape cooperation under the risk of ecological collapse.
 img: assets/img/12.jpg
 importance: 1
 category: Current

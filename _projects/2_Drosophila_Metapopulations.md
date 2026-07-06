@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Drosophila Metapopulation Dynamics
-description: with background image
+description: Semester project with Prof. Sutirth Dey (IISER Pune) — individual-based simulations of how life-history traits shape Drosophila metapopulation dynamics, validated against empirical data.
 img: assets/img/12.jpg
 importance: 3
 category: Previous

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: The Hard Problem of Consciousness
-description: with background image
+description: Semester project with Prof. G. Nagarjuna (IISER Pune) — a critical evaluation of Chalmers' "Hard Problem" and its implications for the scientific study of consciousness.
 img: assets/img/12.jpg
 importance: 3
 category: Previous
